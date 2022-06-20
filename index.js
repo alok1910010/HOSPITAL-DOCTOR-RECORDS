@@ -1,4 +1,5 @@
-
+//ALOK YADAV 
+//HOSPITAL-DOCTOR-RECORDS
 document.querySelector("form").addEventListener("submit",mad)
 function mad(e){
     e.preventDefault()
